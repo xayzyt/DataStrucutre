@@ -1,0 +1,5 @@
+﻿  test.c
+D:\数据结构\DEMO\4.链表应用_循环链表\4.链表应用_循环链表\test.c(45,2): warning C4133: “return”: 从“ElemType *”到“Node *”的类型不兼容
+D:\数据结构\DEMO\4.链表应用_循环链表\4.链表应用_循环链表\test.c(37,1): warning C4716: “insertHead”: 必须返回一个值
+D:\数据结构\DEMO\4.链表应用_循环链表\4.链表应用_循环链表\test.c(90,1): warning C4716: “findNodeFS”: 必须返回一个值
+  4.链表应用_循环链表.vcxproj -> D:\数据结构\DEMO\4.链表应用_循环链表\x64\Debug\4.链表应用_循环链表.exe
