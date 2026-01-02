@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="8.队列的链式结构/8.队列的链式结构.vcxproj" />
+</Solution>
